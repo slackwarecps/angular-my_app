@@ -14,6 +14,9 @@ The Angular CLI. From the terminal, install the Angular CLI globally with: https
 
 With the Angular CLI, you can use the command ng to create new workspaces, new projects, serve your application during development, or produce builds to share or distribute.
 
+## Pra subir uma nova pagina
+ng generate component cart
+
 
 
 
